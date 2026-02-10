@@ -1,2 +1,2 @@
 # InfoSecu
-Informathin security
+Information security
