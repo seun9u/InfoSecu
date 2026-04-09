@@ -7,7 +7,7 @@
 
 ### Learning Paths
 * **Networking:** OSI 모델, L2/L3 스위치 설정 및 네트워크 엔지니어링 기초 실습
-* **Programming:** Java(Eclipse) 및 C 언어를 활용한 시스템 구현 역량 강화
+* **Programming:** Java(Eclipse) 및 C 언어를 활용한 시스템 구현 역량 강화     
 * **Theory:** AI Methods 및 시스템 테스팅 방법론 학습
 * **Cloud & Infra:** AWS SAA-C03 및 SOA-C02 자격증 취득을 위한 클라우드 아키텍처 공부    
 
